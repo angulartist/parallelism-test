@@ -1,0 +1,6 @@
+Output: [
+{
+"userId": 1,
+"ratings": 81
+}
+]
